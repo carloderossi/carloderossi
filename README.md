@@ -50,7 +50,7 @@ Applicable to wealth management compliance monitoring and unusual transaction de
 **Tags:** Anomaly Detection · Financial Services · Classification
 
 ### **Time Series Forecasting**
-Neural forecasting models with Optuna hyperparameter optimization.  
+Neural forecasting models with Optuna hyperparameter optimization. Production version running on Azure and PySpark (Optuna optimization, Distributed ML)
 Applicable to portfolio return prediction and market trend analysis.  
 **Tags:** Time Series · Optuna · Neural Networks · Forecasting
 
