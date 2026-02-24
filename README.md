@@ -40,6 +40,20 @@ Competing agents with different RL policies simulating bidding strategies.
 Demonstrates multi-agent coordination and game theory.  
 **Tags:** Reinforcement Learning · Multi-Agent · Game Theory
 
+### **Self-Healing ML Agentic Demo**
+Agentic MLOps loop that detects data drift, reasons about it via LLM agents, and autonomously retrains — including synthetic data acquisition when retraining alone is insufficient.  
+Agents operate with memory and historical context to avoid repeated mistakes. Orchestrated with LangGraph for modular, inspectable workflows.  
+**Tags:** LangGraph · Agentic MLOps · Drift Detection · Self-Healing · Synthetic Data
+
+---
+
+## MLOps & Infrastructure
+
+### **Production MLOps Pipeline**
+End-to-end MLOps ecosystem using MLflow, GitHub Actions, and Evidently AI — from training script to governed, schema-enforced production API.  
+Features model signatures, zero-downtime Blue/Green deployment via Docker healthchecks, staging/production environment isolation, and drift detection dashboards.  
+**Tags:** MLflow · GitHub Actions · Evidently AI · Docker · Model Registry · Monitoring
+
 ---
 
 ## Financial ML Applications
@@ -70,6 +84,15 @@ Mushroom dataset analysis using PCA, t‑SNE, and UMAP.
 ### **GANs Implementation**
 Generative Adversarial Networks for image generation.  
 **Tags:** GANs · Deep Learning · Generative AI
+
+---
+
+## LLM Fine-Tuning & Research
+
+### **Detective Fiction Fine-Tuning Lab**
+Production-ready toolkit for fine-tuning LLMs on classic detective fiction (Sherlock Holmes & Hercule Poirot) using Unsloth.  
+Covers full pipeline: dataset preparation with quality analysis, LoRA SFT on Qwen 2.5, PPO-based reinforcement learning, LLM-as-judge evaluation, and embedding-based style drift analysis (cosine similarity: 0.73).  
+**Tags:** Unsloth · LoRA · Fine-Tuning · Qwen · PPO · RL · LLM-as-Judge
 
 ---
 
