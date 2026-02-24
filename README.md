@@ -100,7 +100,7 @@ Covers full pipeline: dataset preparation with quality analysis, LoRA SFT on Qwe
 
 ### **UBS | Product and Initiative Manager (2025–Present)**
 - Leading AI-enabled transformation of **2,000+** application portfolio  
-- Architected **HDBSCAN** clustering model for dependency analysis  
+- Architected and built a layered ML pipeline for application dependency analysis — starting from a Network Graph, refined with Louvain   community detection, enriched via GNN to surface hidden relationships, and clustered using HDBSCAN.
 - Delivered **CHF 50M+** technical debt reduction  
 
 ### **UBS | Service & Risk Manager, Director (2023–2025)**
