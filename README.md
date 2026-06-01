@@ -54,6 +54,13 @@ End-to-end MLOps ecosystem using MLflow, GitHub Actions, and Evidently AI — fr
 Features model signatures, zero-downtime Blue/Green deployment via Docker healthchecks, staging/production environment isolation, and drift detection dashboards.  
 **Tags:** MLflow · GitHub Actions · Evidently AI · Docker · Model Registry · Monitoring
 
+### **Production MLOps Champion/Challenger demo**
+This repository demonstrates a complete Champion-Challenger framework for safe model deployment in production Machine Learning, with a focus on regulated environments such as credit risk modeling.
+Built on Azure Machine Learning, it showcases shadow deployment, Population Stability Index (PSI) drift detection, automated monitoring, and a governed promotion process to replace models without risking production decisions.
+Explore how to run challenger models in parallel with the live champion, compare their performance on real traffic, and implement robust safeguards against model degradation and concept drift.
+Ideal for MLOps practitioners, quantitative risk teams, and anyone implementing IFRS 9-compliant or similarly regulated ML systems.
+The project includes end-to-end pipelines, monitoring configurations, and practical examples drawn from real-world production challenges in financial services.
+
 ---
 
 ## Financial ML Applications
