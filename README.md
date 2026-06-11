@@ -40,6 +40,14 @@ Competing agents with different RL policies simulating bidding strategies.
 Demonstrates multi-agent coordination and game theory.  
 **Tags:** Reinforcement Learning · Multi-Agent · Game Theory
 
+### **MCP Agents Registry**
+AI Agents can be registered and deregistered dynamically via MCP tools.
+AgentCards are persisted in a JSON registry.
+Each AgentCard is exposed as an MCP Resource.
+Resources use an A2A-style URI scheme (`agent://<agent-name>`).
+Clients can discover available agents through MCP resource listing and retrieve individual AgentCards.
+**Tags:** MCP · A2A · AI AGents · FastMCP
+
 ### **Self-Healing ML Agentic Demo**
 Agentic MLOps loop that detects data drift, reasons about it via LLM agents, and autonomously retrains — including synthetic data acquisition when retraining alone is insufficient.  
 Agents operate with memory and historical context to avoid repeated mistakes. Orchestrated with LangGraph for modular, inspectable workflows.  
