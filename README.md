@@ -21,9 +21,12 @@ Beyond my day job, I explore cutting-edge AI architectures through **10+ product
 
 ## Agentic Systems & Orchestration
 
-### **A2A Protocol Implementation**
+### **Multi-Agent Collaboration using MCP Registry and A2A Protocol Implementation**
 Multi-agent communication system with dynamic agent discovery via MCP resources and AgentCards.  
 Enables autonomous agent coordination without hardcoded dependencies.  
+This example demonstrates how a dynamic MCP Agent Registry can be combined with the Agent-to-Agent (A2A) protocol to build discoverable multi-agent systems.
+The MCP Registry acts as a centralized discovery service, while A2A provides the communication protocol between agents.
+MCP Registry → Agent Discovery A2A Protocol → Agent Communication
 **Tags:** LangChain · MCP · Multi-Agent · A2A Protocol
 
 ### **Custom MCP Server**
@@ -47,6 +50,7 @@ Each AgentCard is exposed as an MCP Resource.
 Resources use an A2A-style URI scheme (`agent://<agent-name>`).
 Clients can discover available agents through MCP resource listing and retrieve individual AgentCards.
 **Tags:** MCP · A2A · AI AGents · FastMCP
+
 
 ### **Self-Healing ML Agentic Demo**
 Agentic MLOps loop that detects data drift, reasons about it via LLM agents, and autonomously retrains — including synthetic data acquisition when retraining alone is insufficient.  
