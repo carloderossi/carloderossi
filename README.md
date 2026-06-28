@@ -1,11 +1,6 @@
 # About Me
 **Location:** Zürich, Switzerland  
 **LinkedIn:** https://www.linkedin.com/in/carloderossi
-IT <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg" width="32"/>
-EN <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="32"/>
-DE <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ch.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg" width="32"/>
-PT <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pt.svg" width="32"/>
-
 
 I design production AI architectures that pass regulatory scrutiny — FINMA, SR 11-7, EU AI Act — in financial institutions, under regulation, at scale.
 
@@ -123,64 +118,14 @@ Production-ready toolkit for fine-tuning LLMs on classic detective fiction (Sher
 Covers full pipeline: dataset preparation with quality analysis, LoRA SFT on Qwen 2.5, PPO-based reinforcement learning, LLM-as-judge evaluation, and embedding-based style drift analysis (cosine similarity: 0.73).  
 **Tags:** Unsloth · LoRA · Fine-Tuning · Qwen · PPO · RL · LLM-as-Judge
 
----
-
-# Professional Experience
-
-### **UBS | Product and Initiative Manager (2025–Present)**
-- Leading AI-enabled transformation of **2,000+** application portfolio  
-- Architected and built a layered ML pipeline for application dependency analysis — starting from a Network Graph, refined with Louvain   community detection, enriched via GNN to surface hidden relationships, and clustered using HDBSCAN.
-- Delivered **CHF 50M+** technical debt reduction  
-
-### **UBS | Service & Risk Manager, Director (2023–2025)**
-- Product owner for enterprise platforms serving **750+ clients**, **25,000+ deployments**  
-- Managed **$10M+** vendor partnerships  
-- Led **350‑application migration** with **700+ stakeholders**
-
-### **Credit Suisse | Service Manager, VP → Product Manager (2013–2022)**
-- Product owner for enterprise Java platforms supporting wealth management and trading systems  
-
----
-
-# 🛠️ Tech Stack
-
-**AI/ML Systems:** LangChain, LangGraph, MCP, A2A Protocol, Multi-Agent RL, Agentic RAG, HDBSCAN  
-**GenAI:** Azure OpenAI, DeepSeek, Claude API, Prompt Engineering, RAG Architectures  
-**ML/DL:** Python, scikit-learn, TensorFlow, PyTorch, Optuna, GANs, Anomaly Detection  
-**Cloud & Platform:** Microsoft Azure (AI‑900, AZ‑104), OpenShift, Kubernetes, Docker  
-**Product Tools:** Jira, Confluence, Miro, Git, Agile/Scrum, SAFe  
-
----
-
-# 📊 GitHub Stats
-
-<!-- Add your GitHub stats images here -->
-<!-- Example:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
--->
-
----
 
 # 📫 Let's Connect
 
+IT <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg" width="32"/>  
+EN <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="32"/>  
+DE <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ch.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg" width="32"/>  
+PT <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pt.svg" width="32"/>  
 
----
 
-💡 *I'm passionate about building AI products that advisors and clients actually use — not just demos that look good in slide decks.*
-
----
-
-# 🎓 Education & Certifications
-
-- **Master of Engineering — Microelectronic Engineering**, Università degli Studi di Roma La Sapienza  
-- **Specializations:**  
-  - AI Product Management (IBM)  
-  - GenAI Engineering (IBM)  
-  - AI Governance & Security  
-  - Machine Learning (DeepLearning.AI)  
-  - Azure AI/ML  
-  - UBS Certified Product Manager  
-
----
 
 ⭐️ *If you find my work interesting, consider starring some repos!*
