@@ -1,6 +1,13 @@
-# 👋 About Me
+# About Me
+**Location:** Zürich, Switzerland  
+**LinkedIn:** https://www.linkedin.com/in/carloderossi
+IT <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg" width="32"/>
+EN <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="32"/>
+DE <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ch.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg" width="32"/>
+PT <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pt.svg" width="32"/>
 
-I build AI products that work in the real world — in banks, under regulation, at scale.
+
+I design production AI architectures that pass regulatory scrutiny — FINMA, SR 11-7, EU AI Act — in financial institutions, under regulation, at scale.
 
 Currently working in Switzerland in a Swiss Financial institution, leading AI-enabled transformation of enterprise portfolios. I architected a GNN/ML clustering model analyzing **20K+ application dependencies**, delivering **CHF 50M+** in technical debt reduction.
 
@@ -8,18 +15,26 @@ Beyond my day job, I explore cutting-edge AI architectures through **10+ product
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
-- 🤖 Agentic systems & multi-agent orchestration  
-- 🧠 GenAI applications (RAG, LLMs, custom reasoning)  
-- 📊 Financial ML (anomaly detection, recommendations, forecasting)  
-- 🏗️ AI infrastructure (custom MCP servers, agent protocols)  
+- AI Architecture for regulated environments (FINMA · SR 11-7 · EU AI Act)  
+- Agentic systems & multi-agent orchestration (LangGraph · MCP · A2A)  
+- RAG systems & LLM deployment on Azure AI Foundry  
+- Model risk governance & MLOps/AIOps in financial services  
+- End-to-end AI product delivery: from architecture to production 
+- Financial ML (anomaly detection, recommendations, forecasting)  
+- AI infrastructure (custom MCP servers, agent protocols)  
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## Agentic Systems & Orchestration
+
+### **Self-Healing ML Agentic Demo**
+Agentic MLOps loop that detects data drift, reasons about it via LLM agents, and autonomously retrains — including synthetic data acquisition when retraining alone is insufficient.  
+Agents operate with memory and historical context to avoid repeated mistakes. Orchestrated with LangGraph for modular, inspectable workflows.  
+**Tags:** LangGraph · Agentic MLOps · Drift Detection · Self-Healing · Synthetic Data
 
 ### **Multi-Agent Collaboration using MCP Registry and A2A Protocol Implementation**
 Multi-agent communication system with dynamic agent discovery via MCP resources and AgentCards.  
@@ -51,11 +66,6 @@ Resources use an A2A-style URI scheme (`agent://<agent-name>`).
 Clients can discover available agents through MCP resource listing and retrieve individual AgentCards.
 **Tags:** MCP · A2A · AI AGents · FastMCP
 
-
-### **Self-Healing ML Agentic Demo**
-Agentic MLOps loop that detects data drift, reasons about it via LLM agents, and autonomously retrains — including synthetic data acquisition when retraining alone is insufficient.  
-Agents operate with memory and historical context to avoid repeated mistakes. Orchestrated with LangGraph for modular, inspectable workflows.  
-**Tags:** LangGraph · Agentic MLOps · Drift Detection · Self-Healing · Synthetic Data
 
 ---
 
@@ -115,7 +125,7 @@ Covers full pipeline: dataset preparation with quality analysis, LoRA SFT on Qwe
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ### **UBS | Product and Initiative Manager (2025–Present)**
 - Leading AI-enabled transformation of **2,000+** application portfolio  
@@ -153,8 +163,6 @@ Covers full pipeline: dataset preparation with quality analysis, LoRA SFT on Qwe
 
 # 📫 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/carloderossi
-- **Location:** Zürich, Switzerland  
 
 ---
 
